@@ -1,9 +1,3 @@
-"""
-alerts.py
-Simple Email Alert System
-Sends email automatically when High or Critical issues found
-"""
-
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
