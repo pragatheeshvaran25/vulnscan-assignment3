@@ -1,9 +1,3 @@
-"""
-scanner.py
-Simple Web Vulnerability Scanner
-Checks 5 vulnerability types
-"""
-
 import requests
 
 # Disable SSL warnings
